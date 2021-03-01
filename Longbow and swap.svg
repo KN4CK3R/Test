@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <title>Longbow and swap</title>
+  <g style="stroke-width :1; fill :none;">
+    <path style="stroke:#00ff00;" d="M 20,20 A 10,10 0 0 0 30,30"/>
+    <path style="stroke:#0000ff;" d="M 20,20 A 10,10 0 0 1 30,30"/>
+    <path style="stroke:#000000;" d="M 20,20 A 10,10 0 1 0 30,30"/>
+    <path style="stroke:#ff0000;" d="M 20,20 A 10,10 0 1 1 30,30"/>
+  </g>
+  <circle cx="20" cy="20" r="1" style="stroke:none; fill:#ffff00;"/>
+  <circle cx="30" cy="30" r="1" style="stroke:none; fill:#ff00ff;"/>  
+</svg>
