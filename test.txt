@@ -4,5 +4,3 @@ aksd
 askod
 üaskod
 akosd
-asasd
-asd
